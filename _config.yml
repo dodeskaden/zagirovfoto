@@ -3,7 +3,7 @@ title: Blog_z
 email: ""
 description: "Photo Journal"
 url: "https://dodeskaden.github.io/zagirovfoto/"
-baseurl: "/photorama"
+baseurl: "/zagirovfoto"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Blog_Z
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
